@@ -1,1 +1,2 @@
-to jest master
+To jest branch newF po zmergowaniu
+
